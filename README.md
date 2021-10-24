@@ -1,4 +1,8 @@
 ### Hello, world!
+
+- Sou desenvolvedor back-end Java e Kotlin
+- Microsservices que se comunicam via REST e gRPC
+- Escrevo artigos técnicos para minha página no Medium
 <div align="center">
   <a href="https://github.com/tonyals">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyals&layout=compact&langs_count=7&theme=dracula"/>
@@ -12,5 +16,6 @@
   
 ##
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/tonyluzsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/tonyluzsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://tonyaugusto.medium.com/" target="_blank"></a> 
 </div>
